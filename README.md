@@ -1,7 +1,8 @@
 # Bank_Marketing
 This repository contains the data, notebooks, and analysis of the Bank Marketing Dataset collected by Portugese financial institution.
 The dataset taken from https://archive.ics.uci.edu/ml/datasets/bank+marketing
-Data Set Information:
+
+## Data Set Information:
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 
 There are four datasets:
