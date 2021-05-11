@@ -1,5 +1,17 @@
 # Bank_Marketing
 This repository contains the data, notebooks, and analysis of the Bank Marketing Dataset collected by Portugese financial institution.
+
+The structure of this repository is as follows:
+bank_marketing
+|- data
+|- experiments
+|- figures
+|- models
+|- notebooks
+|- reports
+
+Processed and Raw data is stored in data folder, splits of data are stored in experiments folder, plots and figures are in figures, saved models are stored in models, notebooks contains 3 individual notebooks for EDA, Data Preprocessing and Modeling. Profile report is generated in reports folder.
+
 The dataset taken from https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
 ## Data Set Information:
